@@ -1,5 +1,5 @@
 
-package com.example2017.android.rxandroid;
+package com.example2017.android.rxandroid.Retrofit;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

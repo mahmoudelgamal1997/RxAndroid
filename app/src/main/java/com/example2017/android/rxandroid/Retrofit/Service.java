@@ -1,9 +1,10 @@
-package com.example2017.android.rxandroid;
+package com.example2017.android.rxandroid.Retrofit;
+
+import com.example2017.android.rxandroid.Retrofit.Example;
 
 import java.util.ArrayList;
 
 import io.reactivex.Observable;
-import retrofit2.Call;
 import retrofit2.http.GET;
 
 /**
